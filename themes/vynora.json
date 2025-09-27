@@ -1,7 +1,7 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
   "name": "Vynora",
-  "author": "Xuancong",
+  "author": "Xuancong Meng",
   "id": "com.xuancong.vynora",
   "themes": [
     {
@@ -71,7 +71,6 @@
         "element.background": "#3B3C35",
         "element.hover": "#2D2E28",
         "element.selected": "#F0F2E40C",
-        "element.active": "",
         "ghost_element.hover": "#3E3D32",
         "ghost_element.selected": "#3E3D32",
         "ghost_element.active": null,
@@ -170,7 +169,7 @@
             "color": "#A6E22E"
           },
           "function.method": {
-            "color": "",
+            "color": "#A6E22E",
             "font_style": null,
             "font_weight": null
           },
